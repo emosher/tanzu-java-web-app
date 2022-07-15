@@ -17,11 +17,11 @@ tanzu apps workload get tjwa
 ```
 
 Demo:
- - Create a workload
- - Tail the workload
+ - Create a workload and tail it
  - Show TAP GUI:
-    - Supply chain of pre-demo-tjwa, show the boxes and the flow
-    - Catalog entry -> App live view of pre-demo-tjwa and tjwa
-    - APIs page and the docs there
-    - Accelerator page and download an accelerator
- - App live reload with IDE Plugin
+    1. Supply chain of pre-demo-tjwa, show the boxes and the flow of a completed supply chain
+    1. Catalog entry of tjwa
+    2. App live view of pre-demo-tjwa and tjwa
+    3. APIs page and the docs there
+    4. Accelerator page and download an accelerator
+ - IDE Plugin and app iteration
