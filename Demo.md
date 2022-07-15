@@ -20,6 +20,13 @@ When it finishes
 tanzu apps workload get tjwa
 ```
 
+Strings used, for easy copy/paste
+```
+"Greetings from Spring Boot and Tanzu!!!"
+"This is a test!"
+"Hey, I hope this works!!"
+```
+
 Demo:
  - Create a workload and tail it
  - Show TAP GUI:
