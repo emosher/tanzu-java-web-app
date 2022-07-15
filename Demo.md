@@ -5,6 +5,10 @@
 tanzu apps workload create pre-demo-tjwa -f config/workload.yaml --yes
 ```
 
+Start the `Tiltfile`
+
+### Commands used in demo
+
 Create a workload
 
 ```bash
